@@ -2,7 +2,7 @@
 @media (max-width:670px) {
 /*header　menu-bars */
   .header-logo{
-    padding-left: 20px;
+    padding-left: 10px;
   }
 
   .headerleft{
@@ -144,7 +144,17 @@
 
 @media (max-width:380px) {
 /*Contact--------------------------------------------------------------------- */
-.contact{
+ .icon-arrow{
+  padding-left: 7px;
+  float: left;
+}
+
+.icon{
+  padding-left: 10px;
+  float: left;
+}
+ 
+ .contact{
   margin-top: 70px;
   height: 600px;
 }
