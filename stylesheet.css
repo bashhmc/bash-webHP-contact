@@ -156,6 +156,26 @@ a:hover{
     transform: translate(-25px);
   }
 
+.menu-logo h1{
+  font-size: 40px;
+  margin-left: 30px;
+  color:white;
+  margin-bottom: 0px;
+  /*border-bottom: solid #444444 ; */
+  margin-bottom: 26.800px;
+}
+
+.menu-logo h1:after {
+content:"";
+display:block;
+height:3px;
+width:100%;
+background: -webkit-linear-gradient(left, #444444, #000000);
+background:-moz-linear-gradient(left, #444444, #000000);
+background:linear-gradient(to right, #444444, #000000);
+border-radius: 20px;
+}
+
 /*Contact--------------------------------------------------------------------- */
 .contact-form{
   color: white;
