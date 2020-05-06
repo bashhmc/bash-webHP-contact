@@ -155,6 +155,7 @@ a:hover{
   #input:checked ~.conte{
     transform: translate(-25px);
   }
+
 /*Contact--------------------------------------------------------------------- */
 .contact-form{
   color: white;
