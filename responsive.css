@@ -75,16 +75,6 @@
   color: white;
 }
 
-/*Movie */
-.Movie{
-  height: 450px;
-}
-
-.Movie-YouTube{
-  width:90%;
-  height: 300px;
-}
-
 /* contact--------------------- */
 
  .contact{
@@ -125,7 +115,7 @@
 
  .contact-form{
    color: white;
-   margin-left: 30px;
+   margin-left: 0px;
    text-align: center;
  }
 
